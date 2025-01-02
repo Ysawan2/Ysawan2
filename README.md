@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ysawan2
-- 👀 I’m interested in building large-scale infrastructure/MLOPS solutions for cloud-native, machine learning and AI applications.
+- 👀 I’m interested in building test automation solutions for cloud-native, machine learning and AI applications.
 - 🌱 I’m currently learning to design machine learning systems.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
